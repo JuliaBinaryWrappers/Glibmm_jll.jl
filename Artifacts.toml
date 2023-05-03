@@ -1,318 +1,318 @@
 [[Glibmm]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a6ff605494d70eae7049f7f512cd1d1783f7af46"
+git-tree-sha1 = "21ca04aa21fd32178f93ae8180ba583effc56591"
 os = "macos"
 
     [[Glibmm.download]]
-    sha256 = "8050aa890a93710f603f9203e6bcaa31662316cca810f2525d2e00b4d9a17668"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.aarch64-apple-darwin-cxx03.tar.gz"
+    sha256 = "9b1a57e5b4bd57b3ececcd7ac91af48e70cb6bdfdd6d1ff402ac4691a3bd7b4e"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.aarch64-apple-darwin-cxx03.tar.gz"
 [[Glibmm]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d7a60d687377d2f19f92f8ed76bdf249c750e2e7"
+git-tree-sha1 = "0748203b33c42d81954930ca21e5d1ad260a9aa9"
 os = "macos"
 
     [[Glibmm.download]]
-    sha256 = "bd2893fe97a8fed69234fdfe0dbc3534fdcabe7d09eb47506a8cc3a0c31b2b27"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.aarch64-apple-darwin-cxx11.tar.gz"
+    sha256 = "c553f8fbcbd0d06f38333808f69cfef895a9b8259d3d4f1da7ed1c055cb3bd3a"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.aarch64-apple-darwin-cxx11.tar.gz"
 [[Glibmm]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a75ac8e98a01f1efd78c6015a61449f42d91e950"
+git-tree-sha1 = "d6a87679fd1a50757a0bdc44e86aa76b413dc165"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "f54f25924bf8903ba159b288de0f9a3e1fde7be02a8697dcebcb564547f4fae8"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "3ce2a53c9412b949120a06e7dfaa629b6314f8d747b17966f9e2a8b2f0f6dda3"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.aarch64-linux-gnu-cxx03.tar.gz"
 [[Glibmm]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "44cff689b71013fdb452ef05707dfa09a7a96ed5"
+git-tree-sha1 = "6e36cce7080ca3a138d32ac6db1b8c85d6bf46b7"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "d6e2c7945d34907ead8fc5eda1c0e93206efe901e174dcf4ef37f6791ef8d44d"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3cff70fc8c070be5c238b639b2be8cd6ac8669526f93771773a9d178274c9f90"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.aarch64-linux-gnu-cxx11.tar.gz"
 [[Glibmm]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "113a7bef4266a27cf427f05e12e15ebb217c69fb"
+git-tree-sha1 = "80f722ea0a5eb0b8410b1835808587b9380aa28b"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "f31032d835de618b8e04d6791f06394eeb891fc70eaa666bc48cb9bdbff3a0b2"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "e084fb192006645e541ef93b3d3aadfef5fdbf484ebfaf5b14b32b2b43bf6f49"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.aarch64-linux-musl-cxx03.tar.gz"
 [[Glibmm]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d14c0897ef590a1f1b85b55abe5a4809b5c3143"
+git-tree-sha1 = "45fb52e351195552558a9d26cdf971ab8e5c4490"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "b749e37255b47c812c028876d7b3dad3def360ebcc338141d66c045693796602"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "ea23c895cc50041b6e9ff631fd4b021476f4b0281f655b40975493c96c6f4142"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.aarch64-linux-musl-cxx11.tar.gz"
 [[Glibmm]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8b37b30504b84550fe1c150ff3fbffc210dc783c"
+git-tree-sha1 = "5616f22556749b3e33fa413307d8b5907d4fcf9e"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "d60f91e4a15e6cf8df27b646f675db809ab22f0dd54f32947938d8af5355d52a"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "2b8889ef3b8352ec481fe5b8cca009b5b41de4e23498d9512fc430b314401b45"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Glibmm]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c8401a6be37770f7e506ce6dd9227b4c24c0bcf"
+git-tree-sha1 = "449be85cfb1b2710e3e10919045493ccb2b33947"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "5f44cb8303cab9d423a43c4b843b9e45933fa0169c8c2cfbf48f323c7ea2320c"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "b1a3bd89bbf49ee10f30d6c437b53d0ffda9856c91a8c04726c31595c2a3c2ac"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Glibmm]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "285c96946834eb04d30ea930606c27fe39531bea"
+git-tree-sha1 = "0211301a3db3728fa6706d12ab8c6cc71c8206a2"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "edf5de08f7368065774e256801e3c7c5b05838c0a8f57dcfc0a349a7773696ed"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "49d1fb3b3cd9739c777c836f83be6011fdce25c9b697a3abac6efe144cbba76e"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Glibmm]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b62a9a2b95adf2f7ad8d625f56a2fb6ebd38c85d"
+git-tree-sha1 = "536e86a5e620843705fabd34916143ab99009084"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "754774355e752226c4120c432eff97199efe4ee3eab78e16a02079cc63daaf99"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "aa15f9a3236c8ec8a4254c81b14ffd29b44e5b814e93acbb05035607991f3e07"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Glibmm]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "39642377dfea835bb9ad0f589b73576e55ca857d"
+git-tree-sha1 = "3b47b0d4fb412b5aeefad5afedef5472813e0e76"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "74c006dd833f3c5e8242e222916627800c83d230ffc5b8725bbab2dbebdd74fc"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "02d033812d23b9b4515658b97ab6f15794dd7e7976fd2c694e9b1f90035c8fd6"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Glibmm]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "93bcb2a258f215eca0c9f7b29605e18dd2008f28"
+git-tree-sha1 = "25e998aabd41308788b1fdaba2629170d42b1141"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "21404a7cf11c7962cb49de7445ec52d3e077d70666c92e9cbe9c0124d863c562"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "4ab981283f3a6504edafaf002eb5becd46578f0d625c306825f4215e015c311d"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Glibmm]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "871cb9eb8fb88c99112253a83982356aca50b09b"
+git-tree-sha1 = "a0e42fb8f385c25a64b3e68a661fa29818e690e1"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "197afc625682ec6e78ddce28a5c4185782f22697f9b927d66db57e8951c19843"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "1d36ab1cf1be4b5f48c87ca0f3efeafb9669ea5e2f0371882bf9735979c760e3"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Glibmm]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "88f81ffa267c33e783a40d1876bab765378b5d71"
+git-tree-sha1 = "93cf6a6537fc7335e0f9a188304e9eb39fb3d363"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "2b2fe5ee0ec3f7f2820788a5cd3f9bcdb0cc6d27ee8239079949a393d1b82e8a"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "86b6c10c1c8d9af4b21bc2e6c3ee9caa01ca75d8b1918a1efba10346728f67fc"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Glibmm]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0a3d7698da5e001c88bfa58e9c72693df25ee383"
+git-tree-sha1 = "532e6a43b676f9e01dfc4939a93df2d96317faca"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "7cacf58b03219f0450f9291205dabd860c873ac510533fff7c91a044bfcf77aa"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ef08fcd5f26ce5213e13fb9138d1571e064c90e7b3531df73a53a52e76f28c97"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.i686-linux-gnu-cxx03.tar.gz"
 [[Glibmm]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b98c676ab0cf3ef09b41efaa90b4b2cb61f09f55"
+git-tree-sha1 = "3028051ad9b3ed94c0d9e2f0c1589aaa914224e8"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "dfa09d56b7d6c772bd56f2fbf67169e45f6e8466a041df82f9e348f39ddf73b6"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "bff6fa0ba332c7f76587b4b3d63c9da098bd6a96ccdf38f663518732f21ba6b8"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.i686-linux-gnu-cxx11.tar.gz"
 [[Glibmm]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e147daa9b7baf0446c03f9ae13a5a2d5c0c8538b"
+git-tree-sha1 = "d32a3c0cac1509cd88294fc73523ee7a1a9afbcf"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "58885e2b7ffbc207239c487687e94c8fba62c0cbfad1d17a87a14d03b1ed36fa"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "140d3e0f2c0eb5f03b3cd731a8f9f65078ce2cbc10060e7b87d9584ee3833788"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.i686-linux-musl-cxx03.tar.gz"
 [[Glibmm]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "40e0f1e3d028a81351b2ff9df0a4e36ea05a6cf4"
+git-tree-sha1 = "06d463f3960cbacdb75c09caa12f854f70855928"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "86aadf1d005cbf9e1319da3113d2d6ef528bd71b2670f6a04b71c2bdf41c56ff"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "f445845e7d049cfe2ad0d1e0d6f5e24587b90407fab8eaa72d50be1af4e4b1b4"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.i686-linux-musl-cxx11.tar.gz"
 [[Glibmm]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5f579d22ec593b94e11736757f0624959c4d9cbf"
+git-tree-sha1 = "48b067184ad97c7df95d540d378ff5c0183e9912"
 os = "windows"
 
     [[Glibmm.download]]
-    sha256 = "ee5e12dcb4fe6347861098a02b53eec9ed1aa9621230e5c5edbc08043169cc21"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c7b77f0c77d3032982e56e3f1906542857bd18fa8982a22c73f8fa98857648e2"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.i686-w64-mingw32-cxx03.tar.gz"
 [[Glibmm]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03bde90b867772d815a4e6bd12fcaca6f4368f34"
+git-tree-sha1 = "e41fa9c608c8a528377dcd00b62ca2ec5e931c38"
 os = "windows"
 
     [[Glibmm.download]]
-    sha256 = "8ab8b354ce17ac43516da5d6a506da72c24ebca1e2607a104efed0282ee9f446"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "980e95e2fa06a547b33cdda09efbce320e058f66d4d13e18061312d3425b5c97"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.i686-w64-mingw32-cxx11.tar.gz"
 [[Glibmm]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cbd5e2933d5a09b0e75aa6cbda66fdf8631e9987"
+git-tree-sha1 = "e10db238f056d835952f0033febc9a2c2f4f85b2"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "eaa517ac10d029d155fc14a2e55a1fb061e317a706902fd8a7c4af9589ecc921"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "429afe4cc14aa60e6ac4f3295b690910042ba7500ee6dc12190f6a9f6e0e311f"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Glibmm]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13224e60a8aa37244b756b004e550f559797f867"
+git-tree-sha1 = "b60572c90e5e57afc2f4e29dcf46f6813cae5d77"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "1b71f8befe79e9865b083bbbcf973ec83ae500a6d4e32cf69a6afa5450e8cef1"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "6c886781abb4955151e848a624843375918195ff23452d4beb14f91a8e9f93ae"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "26dbfbe0522f2e76d64fb0d3fcfbb53279ebfd54"
+git-tree-sha1 = "b3c6492f813c002a4221a9adfc5afe79910d231e"
 os = "macos"
 
     [[Glibmm.download]]
-    sha256 = "81feb6c49821e5bba6a0f862ab02f326848074db932f73d2acbd1707a74c4f61"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-apple-darwin-cxx03.tar.gz"
+    sha256 = "2de5f7a9175ee155204ae150c8494f45f97ea5838774435bc8f4e87108a42954"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-apple-darwin-cxx03.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64306ad881f86c5f05cc34b8f8377184c01baf71"
+git-tree-sha1 = "cd693945e03d3f8ce581657e694f569c06bb4c11"
 os = "macos"
 
     [[Glibmm.download]]
-    sha256 = "8eea0d6b43cdd46d238a35022520d8460c68a92e92c3289485d8136234b8011b"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-apple-darwin-cxx11.tar.gz"
+    sha256 = "b24536a8b132dbeab05260076f340ab78bffd45318fb2412cfa5ff91c749cbe3"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-apple-darwin-cxx11.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "097eadb9f8db17450422edb74e023cbc178311a4"
+git-tree-sha1 = "e677ef58d1e26aba5f4230d3ee374e5dcf6c69b8"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "32d957fc1f8e947a43e3a1d151cc347392222251cb50a1c0de021605f2e6b94a"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f6ab5febf2fa8c11a5b7f960795cbcc8dc30aee69843f2303bac3adb507b81ab"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-linux-gnu-cxx03.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c346daa54cd80c6fc4c61e732046568cbcd1784"
+git-tree-sha1 = "53908af49ba99fecd83d4c0774e47a416569dd6a"
 libc = "glibc"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "0945868aa56392d883149db0c8b87a9c33d6aed46862f0ee2450998e7eb371fb"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a216c89ea897b0e6dd86f59d1585d98af787a8afec37edc695e239789dacd25c"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-linux-gnu-cxx11.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "afeb94ffcd62988d432c07b0c76a7622961f200e"
+git-tree-sha1 = "9fcff2b14a906a4442a43ad01146c5d59d8cbce5"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "d437ce3ca43ee7ae04e9ea1396ae4f82eec490b1e7065dc6e606693f8141d4e5"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "08dca73bbb682e59a41bdb038ba704515424ae845d9f3be9f2952a6d8b6b2683"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-linux-musl-cxx03.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "40315458128c5384e2e451a9f70a128dc981a07a"
+git-tree-sha1 = "458155845bb8c8dd2a48f2f0b57482b563ffb16a"
 libc = "musl"
 os = "linux"
 
     [[Glibmm.download]]
-    sha256 = "5408ea294fc35b34ad0227161e66961eaecd9b5d9f3627082281fac9849a27de"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "fd5e777dfb2ab7d626507c629198dbc7ccd77d2c3b1bf75aa4c79c1b02c294ce"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-linux-musl-cxx11.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "adcdbc1297556be9bdc81f70959f8f18c64f7ef5"
+git-tree-sha1 = "7e07a60879f14286be84267e9f1ceef20371d225"
 os = "freebsd"
 
     [[Glibmm.download]]
-    sha256 = "2472d9f7da57f64c4a4be7fffde2037b761522e2b0e1bfb00068615816b419a6"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-unknown-freebsd-cxx03.tar.gz"
+    sha256 = "52aa127b292532235c943064ce7403c161f2f0f9f4a9ea1862eb1e8a9804b376"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-unknown-freebsd-cxx03.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "00c1b24467fd2f048f1b926bdda818a2cb9204f7"
+git-tree-sha1 = "6fa3569aecf22d541cab16de2b656cc166ade106"
 os = "freebsd"
 
     [[Glibmm.download]]
-    sha256 = "7b3fcb0b82a93821678d66d9bd71e52398e22fc2c82ae4db3c87f5d5033c7d9e"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-unknown-freebsd-cxx11.tar.gz"
+    sha256 = "62ab710d58fb0ef31d62b8d5c00d37f9fd11ce221462c0c3afbfeb8b624e5883"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-unknown-freebsd-cxx11.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "292faa64f5382531b90fa5e4622667a6bd7b3065"
+git-tree-sha1 = "953463d41fc295178383a8c05bdbd8e1bdbb7edc"
 os = "windows"
 
     [[Glibmm.download]]
-    sha256 = "42dd94bf6be429fcab67a1275ff3785b6a02ec1857b9a3f497f1b6aac46dde35"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3ff51be3cdbaa6f6e930b1d123849c759c49f9e36cbe3dc7251d404f7e369f1b"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Glibmm]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a828032c91017cf737f3207f90c3cddb419f5288"
+git-tree-sha1 = "25f6ef04aa6600e2a3524eaaf5d598951ac3655b"
 os = "windows"
 
     [[Glibmm.download]]
-    sha256 = "521e99744faf393ad41de4bf98452febb985bb2cbc9050ff1c76bb6f8a1170d1"
-    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.76.0+0/Glibmm.v2.76.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "6d3444cb82f4eaed6e1b6398dbc1b64ecb5996eff9f8a67ecfb9c76eaf45d31b"
+    url = "https://github.com/JuliaBinaryWrappers/Glibmm_jll.jl/releases/download/Glibmm-v2.66.6+0/Glibmm.v2.66.6.x86_64-w64-mingw32-cxx11.tar.gz"
